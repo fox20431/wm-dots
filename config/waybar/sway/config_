@@ -13,11 +13,11 @@
   "margin-right": 8,
 
   "modules-left": [
-    "hyprland/workspaces#pacman",
+    "sway/workspaces#pacman",
     "custom/separator#blank",
-    "hyprland/submap",
+    "sway/mode",
     "custom/separator#blank",
-    "hyprland/window"
+    "sway/window"
   ],
 
   "modules-center": [

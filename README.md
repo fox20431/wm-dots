@@ -32,3 +32,8 @@ App launcher:
 
 - rofi & rofi-emoji
 - wofi
+
+Other:
+
+- inotifty-tools
+- libnotify
